@@ -4,6 +4,8 @@ A small Windows x64 audio mixer written in Rust. It controls active playback and
 
 <img src="assets/Volux.png" alt="Volux" width="50%">
 
+Download in releases: https://github.com/djansen1987/Volux/releases/
+
 ## Features
 
 - Per-device output and input volume and mute
